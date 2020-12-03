@@ -1,7 +1,9 @@
 # the-reach-sky
 
 ## Links:
-Discord: https://discord.gg/sVHr7xcfmn
+## [Discord](https://discord.gg/sVHr7xcfmn)
+
+## [Añadir co-autor en un commit](https://github.com/shirosweets/how-to-add-co-author)
 
 ### Idea de la organización:
 - Aprender a crear proyectos
