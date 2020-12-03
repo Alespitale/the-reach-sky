@@ -1,9 +1,20 @@
 # the-reach-sky
 
-## Links:
-## [Discord](https://discord.gg/sVHr7xcfmn)
+### Links
+[Discord](https://discord.gg/sVHr7xcfmn)<br>
+[Añadir co-autor en un commit](https://github.com/shirosweets/how-to-add-co-author)
 
-## [Añadir co-autor en un commit](https://github.com/shirosweets/how-to-add-co-author)
+### Índice
+[Idea](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#idea-de-la-organizaci%C3%B3n)<br>
+[Crear un repositorio](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#necesario-al-crear-un-repositorio-en-la-organizaci%C3%B3n)<br>
+[Elección de proyecto]()<br>
+[Asignación de tareas]()<br>
+[Necesario](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#es-necesario-tener-un-perfil-de-github-gitlab-y-discord)<br>
+[Conocimiento básico](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-b%C3%A1sico-necesario)<br>
+[Conocimiento recomendado](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-recomendado-para-todo-tipo-de-proyectos)<br>
+[Conocimiento avanzado](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-avanzado-para-todo-tipo-de-proyectos)<br>
+[Conocimiento extra útil]()<br>
+[Lenguajes](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#lenguajes-probables)<br>
 
 ### Idea de la organización:
 - Aprender a crear proyectos
@@ -19,15 +30,26 @@
 4) Licencia (de momento usaremos MIT)
 5) Repositorio privado al empezar
 
+### ¿Cómo eligiremos el proyecto a realizar?
+Con todos los repositorios creados se hará un listado en el cual se hará lo siguiente:
+- Se tendrá en cuenta el conocimiento previo, lenguaje esperado a usar y la cantidad de tiempo estimada para realizarlo.
+- Se hará una votación al respecto.
+- Se evaluarán los PROS y CONTRAS de realizarlo con el conocimiento actual.
+
 ### Una vez iniciado el proyecto:
 - Establecer en el README por desarrolladores
-- Establecer el lenguaje a usar, herramientas y cualquier cosa necesaria para correr dicho programa
+- Establecer el lenguaje a usar, herramientas y cualquier cosa necesaria para correr dicho programa (también incluir qué versión de dicho lenguaje es necesaria)
 - Si posee Back y Front separarlo en dos branchs o dos repositorios con su respectivo link
 - Establecer un tiempo estimado para realizar todo el proyecto o un estimativo de horas necesarias semanales
+- Añadir el link al proyecto de Jira
+- Crear una categoría o canal privado en Discord (con su respectivo rol asignado)
 
-### Es necesario tener un perfil de GitHub, GitLab y Discord:
+### Asignación de tareas:
+Utilizaremos [Jira](https://www.atlassian.com/software/jira) para la asignación de tareas. De querer usar [Trello](https://trello.com/home) por mayoría se verá la posibilidad de cambiarse.
+
+### Es necesario tener un perfil de GitHub, GitLab, Jira y Discord:
  El perfil debe ser uno decente, no debe ser cualquier cosa.
- Tiene que estar añadido en Discord su perfil de GitHub (esto se hace mediante la Configuración->Conexiones->GitHub luego les solicitará autorización, le dan que sí y lo mantienen en mostrar perfil de GitHub)
+ Tiene que estar añadido en Discord su perfil de GitHub (esto se hace mediante la Configuración->Conexiones->GitHub luego les solicitará autorización, le dan que sí y lo mantienen en mostrar perfil de GitHub). La cuenta de Jira puede ser usada la misma de la cuenta UNC pero se debe tener en cuenta que después de terminar la carrera o estar un tiempo sin ser alumno regular nos la quitan.
 
 ### Conocimiento básico necesario:
 - Manejo de comandos en consola de GIT
@@ -57,21 +79,35 @@
 - Manejo completo de VIM
 - Manejo de servidores
 - Crear nuestros propios paquetes
+- Crear nuestros propios motores gráficos
+
+### Conocimiento extra útil:
+- Crear música y sonidos propios
+- Crear propios sprites
+- Crear nuestros propios modelados 3D
+- Edición de video
+- Doblaje de voz
+- Diseño gráfico en general
 
 ### Lenguajes probables:
-- Ruby
-- Python
-- Java
-- JavaScript
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Python](https://www.python.org/)
+- [Java](https://www.java.com/en/download/)
+- [JavaScript](https://www.javascript.com/) y [NodeJs](https://nodejs.org/en/)
 - C
 - C++
 - C#
-- React
-- HTML5
-- CCS
-- Go
-- TypeScript
-- Elixir
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [HTML5](https://html.spec.whatwg.org/)
+- [CCS](https://drafts.csswg.org/) y [CSS](https://www.w3.org/Style/CSS/)
+- [Sass](https://sass-lang.com/)
+- [Go](https://golang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Elixir](https://elixir-lang.org/)
 - SQL
-- Angular
-- Ionic
+- [MongoDB](https://www.mongodb.com/)
+- [Angular](https://angular.io/)
+- [Ionic](https://ionicframework.com/)
+- [VueJs](https://vuejs.org/)
+- [Bootstrap](https://getbootstrap.com/)
