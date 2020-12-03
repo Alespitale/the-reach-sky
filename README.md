@@ -7,13 +7,13 @@
 ### Índice
 [Idea](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#idea-de-la-organizaci%C3%B3n)<br>
 [Crear un repositorio](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#necesario-al-crear-un-repositorio-en-la-organizaci%C3%B3n)<br>
-[Elección de proyecto]()<br>
-[Asignación de tareas]()<br>
+[Elección de proyecto](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#c%C3%B3mo-eligiremos-el-proyecto-a-realizar)<br>
+[Asignación de tareas](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#asignaci%C3%B3n-de-tareas)<br>
 [Necesario](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#es-necesario-tener-un-perfil-de-github-gitlab-y-discord)<br>
 [Conocimiento básico](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-b%C3%A1sico-necesario)<br>
 [Conocimiento recomendado](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-recomendado-para-todo-tipo-de-proyectos)<br>
 [Conocimiento avanzado](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-avanzado-para-todo-tipo-de-proyectos)<br>
-[Conocimiento extra útil]()<br>
+[Conocimiento extra útil](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#conocimiento-extra-%C3%BAtil)<br>
 [Lenguajes](https://github.com/the-reach-sky/the-reach-sky/blob/main/README.md#lenguajes-probables)<br>
 
 ### Idea de la organización:
