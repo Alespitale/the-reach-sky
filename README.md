@@ -24,11 +24,11 @@
 - Desarrollar proyectos para poder tener en el CV
 
 ### Necesario al crear un repositorio en la organización:
-1) Tener un nombre acorde al reposito
+1) Tener un nombre acorde al repositorio
 2) Descripción del mismo
 3) README siempre
 4) Licencia (de momento usaremos MIT)
-5) Repositorio privado al empezar
+5) Repositorio privado al empezar, tener en cuenta que luego será público
 
 ### ¿Cómo eligiremos el proyecto a realizar?
 Con todos los repositorios creados se hará un listado en el cual se hará lo siguiente:
@@ -53,6 +53,7 @@ Utilizaremos [Jira](https://www.atlassian.com/software/jira) para la asignación
 
 ### Conocimiento básico necesario:
 - Manejo de comandos en consola de GIT
+- Manejo del idioma inglés para leer la documentación en este idioma (no es recomendable leerla en español ya que por lo general está desactualizada o con errores)
 - Manejo de un editor de código, el que más les guste, pero deben saber usarlo bien
 - Manejo de lenguajes funcionales e imperativos
 - Manejo de herencia, punteros, sub-clases e iteración
@@ -60,6 +61,8 @@ Utilizaremos [Jira](https://www.atlassian.com/software/jira) para la asignación
 - Manejo de excepciones y errores
 - Manejo entre varios archivos
 - Manejo de la consola de Linux
+- Manejo de depuración según el lenguaje
+- Entendimiento básico de **export** e **import**
 
 ### Conocimiento recomendado para todo tipo de proyectos:
 - Manejo de frameworks
@@ -94,9 +97,9 @@ Utilizaremos [Jira](https://www.atlassian.com/software/jira) para la asignación
 - [Python](https://www.python.org/)
 - [Java](https://www.java.com/en/download/)
 - [JavaScript](https://www.javascript.com/) y [NodeJs](https://nodejs.org/en/)
-- C
-- C++
-- C#
+- [C](https://en.cppreference.com/w/c/language)
+- [C++](https://en.cppreference.com/w/cpp/language)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [HTML5](https://html.spec.whatwg.org/)
